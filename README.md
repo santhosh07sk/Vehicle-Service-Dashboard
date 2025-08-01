@@ -1,11 +1,11 @@
- 🚗 InsightDrive: Vehicle Service Dashboard
+  InsightDrive: Vehicle Service Dashboard
 
- 📘 Overview
+  Overview
 **InsightDrive** is a Power BI dashboard created to analyze and visualize vehicle service data. Built using 60 real-world service records, this project offers deep insights into service trends, technician performance, revenue analysis, and customer behavior. It's designed to empower technicians, managers, and analysts with actionable metrics.
 
 ---
 
- 📊 Dataset Information
+  Dataset Information
 File: `VehicleServiceData.txt`  
 Records: 60 vehicle service entries  
 Fields:
@@ -15,7 +15,7 @@ Fields:
 
 ---
 
-⚙️ Features
+ Features
 - KPI Cards: Total Services, Avg. Rating, Revenue
 - Visuals:
   - Donut Chart – Payment Method Distribution  
@@ -32,7 +32,7 @@ Fields:
 
 ---
 
-🎯 Goals
+ Goals
 - Understand service flow and demand patterns  
 - Compare technician performance and customer ratings  
 - Monitor payment method preferences  
@@ -41,11 +41,11 @@ Fields:
 
 ---
 
-💻 Setup
+ Setup
 1. Open `InsightDrive.pbix` in Power BI Desktop  
 2. Review and explore dashboard tabs  
 3. Use slicers and tooltips for deeper insights  
 4. Customize visuals or expand dataset as needed
 
 ---
-[!img url](https://raw.githubusercontent.com/santhosh07sk/Vehicle-Service-Dashboard/e381eca3a9b7ab6891faac3d0a0edad3a0fbe723/Dash.png)
+![img alt](https://raw.githubusercontent.com/santhosh07sk/Vehicle-Service-Dashboard/e381eca3a9b7ab6891faac3d0a0edad3a0fbe723/Dash.png)
